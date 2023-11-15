@@ -1,0 +1,19 @@
+{
+  "version": "1.0.5",
+  "notes": "Test github action version 1.0.5",
+  "pub_date": "2023-11-14T20:44:20.723Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL0FNaWVkem9ZTmVjSmpOaStKdk5CM2E5UnRwS2N6ZFpqNklKcnhaTjREVzlmYlpKY3NLVzd0MklRN0l3TmVCeUNXN1hRUWdURjdZMWpGa2FEVlN4a3laZmhlYUloelF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5OTk0NTQwCWZpbGU6cXdlcnR5XzEuMC41X2FtZDY0LkFwcEltYWdlLnRhci5negpMbTRXdlpYc3FsaXlZTjlyeFJ0bVU1dktla0pxZ21pWmgxbUhUWHZqckhWcC9Pa2pXQ2tObkN0VGs0aS9Bb1oyVUE5NTZaMHIyZW92MlVsRmo0c2tEQT09Cg==",
+      "url": "https://github.com/R2rog/rusty/releases/download/v1.0.5/qwerty_1.0.5_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL0FNaWVkem9ZTmRxVkkxVzJyQlVPZkJzZ2UzMGhLaDQ0ZGUyL0dDV2wvM21UbCtwTVNFaGlwTGxxUjJFNXBDTGUxZkUwK1dQVE9aOXZNYlIxbzdibWM3Vjg0emxmVFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5OTk0NjQ1CWZpbGU6cXdlcnR5XzEuMC41X3g2NF9lbi1VUy5tc2kuemlwCnh6SHBjVWZGS1pzcGZKWU1SYVdrL1ZGNDhSM3U0WVFyN2ZrS1RsdFVucDRDZEtYN3NsdGljQVlMdnd6UDVtWTR2TUhSU3BsN05KWFN2Tk1UUW85V0NBPT0K",
+      "url": "https://github.com/R2rog/rusty/releases/download/v1.0.5/qwerty_1.0.5_x64_en-US.msi.zip"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL0FNaWVkem9ZTlluSEN3N016bzVzNHJtRVFhUzVMYU5aSk4rUlA2Z0w2RGpHbUwrZE05NVNWRGtiNjVma2lLWjJOaU9NYVkrZ0c2a0t2ZUx0SEw5NUVvSHRhNEpabGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5OTk0NjU3CWZpbGU6cXdlcnR5LmFwcC50YXIuZ3oKYzVQOGpmK2luVlptMkhMZ1VFWSs4cmQ2ZlExeUJjTUtvSlVCY2g2Y05ZNENheUpmVVVBZFdTQm15bmRZN2RzenZaZVNBRzhYTkQwTmx1N3ZwWUR2Q0E9PQo=",
+      "url": "https://github.com/R2rog/rusty/releases/download/v1.0.5/qwerty_x64.app.tar.gz"
+    }
+  }
+}
